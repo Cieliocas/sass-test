@@ -1,0 +1,7 @@
+@use 'config/reset';
+@use 'sections/produtos';
+@use 'config/colors';
+
+body {
+    background-color: colors.$corDeFundo;
+}
